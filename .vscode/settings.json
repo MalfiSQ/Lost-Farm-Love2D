@@ -1,0 +1,14 @@
+{
+    "Lua.runtime.version": "LuaJIT",
+    "Lua.runtime.special": [],
+    "Lua.workspace.library": [
+        "${3rd}/love2d/library"
+    ],
+    "css.lint.emptyRules": "ignore",
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#222222",
+        "editorError.foreground": "#ff0000",
+        "editorWarning.foreground": "#fff700",
+        "editorInfo.foreground": "#00000000"
+    }
+}
